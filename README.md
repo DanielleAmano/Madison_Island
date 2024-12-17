@@ -14,8 +14,8 @@ Additionally, I designed the methods to be reusable and flexible, ensuring they 
 <p>☕<b>Java:</b> A versatile, object-oriented programming language known for portability and a vast ecosystem, ideal for web, mobile, and enterprise applications.<br></p>
 <p>💽<b>Selenium:</b> An open-source tool for automating web browsers, supporting multiple languages to test web applications.<br></p>
 <p>🧰<b>TestNG:</b> A Java testing framework offering features like parallel execution and data-driven testing for large-scale test automation.<br></p>
-<p>📊<b>Allure:</b> A test reporting framework that integrates with tools like TestNG to generate detailed, dynamic HTML reports.<br></p>
-<!--<p>🛠️<b>Maven:</b> A build automation tool for managing Java project dependencies, structure, and the build lifecycle.<br></p> -->
+<!--<p>📊<b>Allure:</b> A test reporting framework that integrates with tools like TestNG to generate detailed, dynamic HTML reports.<br></p> -->
+<p>🛠️<b>Maven:</b> A build automation tool for managing Java project dependencies, structure, and the build lifecycle.<br></p>
 <p>🌳<b>Git:</b> A distributed version control system for tracking code changes and enabling collaboration among developers.<br></p>
 <!--<p>🤖<b>Jenkins:</b> An open-source automation server for continuous integration and delivery (CI/CD), supporting various tool integrations.<br></p> -->
 <br>
